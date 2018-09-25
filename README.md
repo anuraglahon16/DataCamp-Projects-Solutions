@@ -1,6 +1,6 @@
-# DataCamp Projects Solutions
+# DataCamp Projects Solutions 
 
-This repository consists of DataCamp Projects Solutions
+This repository consists of DataCamp Projects Solutions and very good for beginners to try.
 
 1. [Introduction to DataCamp Projects](https://github.com/anuraglahon16/DataCamp-Projects-Solutions/tree/master/Introduction%20to%20DataCamp%20Projects)
 
