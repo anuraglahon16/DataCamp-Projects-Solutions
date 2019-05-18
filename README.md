@@ -37,4 +37,5 @@ This repository consists of DataCamp Projects Solutions and very good for beginn
 17. [A New Era of Data Analysis in Baseball](https://github.com/anuraglahon16/DataCamp-Projects-Solutions/tree/master/A%20New%20Era%20of%20Data%20Analysis%20in%20Baseball)
 
 18. [Risk and Returns: The Sharpe Ratio](https://github.com/anuraglahon16/DataCamp-Projects-Solutions/tree/master/The%20Risk%20and%20Returns%20-%20The%20Sharpe%20Ratio)
-19.[PREDICTING CREDIT CARD APPROVALS]()
+
+19.[Predicting credit card approvals](https://github.com/anuraglahon16/DataCamp-Projects-Solutions/tree/master/PREDICTING%20CREDIT%20CARD%20APPROVALS)
