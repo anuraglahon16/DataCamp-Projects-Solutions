@@ -44,4 +44,4 @@ This repository consists of DataCamp Projects Solutions and very good for beginn
 
 21. [TV,Half time shows and Big game](https://github.com/anuraglahon16/DataCamp-Projects-Solutions/tree/master/TV%2CHalf%20Time%20Shows%20and%20the%20big%20game)
 
-22. [Reducing Traffic Mortality in the USA]()
+22. [Reducing Traffic Mortality in the USA](https://github.com/anuraglahon16/DataCamp-Projects-Solutions/tree/master/Reducing%20Traffic%20Mortality%20in%20the%20USA)
