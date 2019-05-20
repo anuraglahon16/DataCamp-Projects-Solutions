@@ -50,4 +50,4 @@ This repository consists of DataCamp Projects Solutions and very good for beginn
 
 24. [Give-Life Predict Blood Donations](https://github.com/anuraglahon16/DataCamp-Projects-Solutions/tree/master/Give%20Life%20-%20Predict%20Blood%20Donations)
 
-25. [A Visual History of Nobel Prize Winners]()
+25. [A Visual History of Nobel Prize Winners](https://github.com/anuraglahon16/DataCamp-Projects-Solutions/tree/master/A%20Visual%20History%20of%20Nobel%20Prize%20Winners)
