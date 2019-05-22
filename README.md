@@ -56,4 +56,4 @@ This repository consists of DataCamp Projects Solutions and very good for beginn
 
 27. [Who Is Drunk and When in Ames, Iowa](https://github.com/anuraglahon16/DataCamp-Projects-Solutions/tree/master/Who%20Is%20Drunk%20and%20When%20in%20Ames%2C%20Iowa)
 
-28. [Do Left-handed People Really Die Young?]()
+28. [Do Left-handed People Really Die Young?](https://github.com/anuraglahon16/DataCamp-Projects-Solutions/tree/master/Do%20Left-handed%20People%20Really%20Die%20Young%3F)
