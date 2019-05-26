@@ -64,4 +64,4 @@ This repository consists of DataCamp Projects Solutions and very good for beginn
 
 31. [Find Movie Similarity from Plot Summaries](https://github.com/anuraglahon16/DataCamp-Projects-Solutions/tree/master/Find%20Movie%20Similarity%20from%20Plot%20Summaries)
 
-32. [Up and Down With the Kardashians]()
+32. [Up and Down With the Kardashians](https://github.com/anuraglahon16/DataCamp-Projects-Solutions/tree/master/Up%20and%20Down%20With%20the%20Kardashians)
